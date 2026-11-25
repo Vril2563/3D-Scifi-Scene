@@ -1,2 +1,2 @@
-# 3d-fps-game
+# 3d-action-game
 
